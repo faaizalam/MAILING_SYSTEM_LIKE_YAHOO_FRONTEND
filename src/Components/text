@@ -1,0 +1,10 @@
+<!-- </div>):(image.map((x,index)=>(
+                    <div key={index}>
+                    {/* <div onClick={()=>removetemimg(x)}><ImCross /></div> */}
+                    <img className='sendimage' src={x&&URL.createObjectURL(x)}  alt=""></img>
+                    
+                    {/* <img className='sendimage' src={x&& URL.createObjectURL(x)} alt=""></img> */}
+                    </div>
+                    
+                    ))
+                    ) -->
